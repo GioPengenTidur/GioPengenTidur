@@ -7,6 +7,12 @@
 
 <br><br>
 
+<p align="center">
+  <img src="https://tenor.com/id/view/naruto-obito-uchiha-obito-uchiha-reality-gif-13783217656825791507" width="500">
+</p>
+
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 </div>
