@@ -16,21 +16,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GioPengenTidur&show_icons=true&theme=tokyonight"/>
 
-</td>
-
-<td>
-
 <img width="320em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GioPengenTidur&layout=compact&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
