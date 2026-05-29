@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://tenor.com/id/view/naruto-obito-uchiha-obito-uchiha-reality-gif-13783217656825791507" width="500">
+  <img src="[https://tenor.com/id/view/naruto-obito-uchiha-obito-uchiha-reality-gif-13783217656825791507](https://media1.tenor.com/m/QiNuadauFLsAAAAd/vergil-dmc5.gif)" width="500">
 </p>
 
 <br>
