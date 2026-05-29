@@ -29,9 +29,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioPengenTidur&theme=tokyonight" />
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/GioPengenTidur/GioPengenTidur/blob/output/github-contribution-grid-snake.svg" />
-</p>
