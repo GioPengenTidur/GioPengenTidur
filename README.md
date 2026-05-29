@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM4cDhmcDFhcmpvcmVqYjlqbnY1dGVxMmh5MWJzdHVscmcxZDFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWOkM9jcoVnlm/giphy.gif" width="500">
 </p>
 
 <br>
