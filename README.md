@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github.com/GioPengenTidur/GioPengenTidur/blob/output/pacman-contribution-graph.svg" />
+<img src="https://raw.githubusercontent.com/GioPengenTidur/GioPengenTidur/output/pacman-contribution-graph-dark.svg">
 
 </div>
 
