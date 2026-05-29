@@ -1,4 +1,3 @@
-## Yo, Wassup, I'm Yon 👋
 
 <div align="center">
 
