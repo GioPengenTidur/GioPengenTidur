@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/QiNuadauFLsAAAAd/vergil-dmc5.gif](https://media1.tenor.com/m/QiNuadauFLsAAAAd/vergil-dmc5.gif)" width="500">
+  <img src="https://media1.tenor.com/m/QiNuadauFLsAAAAd/vergil-dmc5.gif" width="500">
 </p>
 
 <br>
