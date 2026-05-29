@@ -16,9 +16,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GioPengenTidur&show_icons=true&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GioPengenTidur&show_icons=true&theme=tokyonight"/>
 
-<img width="320em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GioPengenTidur&layout=compact&theme=tokyonight"/>
+<br><br>
+
+<img width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GioPengenTidur&layout=compact&theme=tokyonight"/>
 
 </div>
 
