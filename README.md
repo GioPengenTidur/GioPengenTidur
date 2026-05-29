@@ -29,3 +29,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioPengenTidur&theme=tokyonight" />
 </p>
+
+## 👾 Pacman Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/GioPengenTidur/GioPengenTidur/blob/output/pacman-contribution-graph.svg" />
+</p>
