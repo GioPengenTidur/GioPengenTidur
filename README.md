@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/QiNuadauFLsAAAAd/vergil-dmc5.gif" width="500">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
 </p>
 
 <br>
