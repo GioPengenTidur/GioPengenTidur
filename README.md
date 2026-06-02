@@ -1,17 +1,12 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo,%20Wassup%20I'm%20Yon&section=header&reversal=true&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Work+Hard%2C+Play+Hard.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Work+Hard%2C+Play+Hard." alt="Typing SVG" />
+</a>
 
-<br><br>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM4cDhmcDFhcmpvcmVqYjlqbnY1dGVxMmh5MWJzdHVscmcxZDFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWOkM9jcoVnlm/giphy.gif" width="500">
-</p>
-
-<br>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 
