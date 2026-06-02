@@ -40,7 +40,7 @@
 
 ---
 
-# 👾 Lari Dari Suki
+# 👾 
 
 <div align="center">
 
