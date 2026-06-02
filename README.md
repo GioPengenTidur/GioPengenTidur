@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,ae,java,js,vscode,clion,figma,unity,robloxstudio,blender,ps,mysql,kali,linux,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,ae,java,js,vscode,clion,figma,unity,robloxstudio,blender,ps,mysql,kali,linux,discord&theme=dark" />
 </a>
 
 </div>
