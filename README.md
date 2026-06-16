@@ -26,6 +26,10 @@
 
 <br><br>
 
+<img src="./Stronger.png" width="90%" />
+
+<br><br>
+
 <img width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GioPengenTidur&layout=compact&theme=tokyonight"/>
 
 </div>
