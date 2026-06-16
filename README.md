@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo,%20Wassup%20I'm%20Yon&section=header&reversal=true&animation=fadeIn" />
+<img src="./github_readme_banner.png" width="100%" />
 
 <br>
 
