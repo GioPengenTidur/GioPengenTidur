@@ -25,6 +25,7 @@
 <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GioPengenTidur&show_icons=true&theme=tokyonight"/>
 
 <br><br>
+<img src="./e622ef00d8f3e1e45209e450d4873792.jpg" width="100%" />
 
 <img width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GioPengenTidur&layout=compact&theme=tokyonight"/>
 
